@@ -26,7 +26,7 @@ You can see a live demo of the To-Do List application [here](https://ayushbhardw
 
 To run the application locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/AyushBhardwaj0817/todo-list.git`
+1. Clone this repository to your local machine using `git clone https://github.com/AyushBhardwaj0817/to-do-list.git`
 2. Navigate to the project directory: `cd todo-list`
 
 ## Usage
