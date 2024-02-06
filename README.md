@@ -20,7 +20,7 @@ This repository contains a simple To-Do List application built using HTML, CSS, 
 
 ## Demo
 
-You can see a live demo of the To-Do List application [https://ayushbhardwaj0817.github.io/to-do-list/](#).
+You can see a live demo of the To-Do List application [here](https://ayushbhardwaj0817.github.io/to-do-list/).
 
 ## Installation
 
